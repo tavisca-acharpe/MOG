@@ -1,0 +1,17 @@
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\bin\Debug\netcoreapp2.1\XUnitTestProject2.deps.json
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\bin\Debug\netcoreapp2.1\XUnitTestProject2.runtimeconfig.json
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\bin\Debug\netcoreapp2.1\XUnitTestProject2.runtimeconfig.dev.json
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\bin\Debug\netcoreapp2.1\XUnitTestProject2.dll
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\bin\Debug\netcoreapp2.1\XUnitTestProject2.pdb
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\bin\Debug\netcoreapp2.1\merchant-galaxy.dll
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\bin\Debug\netcoreapp2.1\merchant-galaxy.pdb
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\obj\Debug\netcoreapp2.1\XUnitTestProject2.csprojAssemblyReference.cache
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\obj\Debug\netcoreapp2.1\XUnitTestProject2.csproj.CoreCompileInputs.cache
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\obj\Debug\netcoreapp2.1\XUnitTestProject2.AssemblyInfoInputs.cache
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\obj\Debug\netcoreapp2.1\XUnitTestProject2.AssemblyInfo.cs
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\obj\Debug\netcoreapp2.1\XUnitTestProject2.csproj.CopyComplete
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\obj\Debug\netcoreapp2.1\XUnitTestProject2.dll
+C:\Users\acharpe\source\repos\merchant-galaxy\XUnitTestProject2\obj\Debug\netcoreapp2.1\XUnitTestProject2.pdb
